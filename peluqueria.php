@@ -148,7 +148,7 @@
             </ul>
         </section>
     </footer>
-    <!-- Final del footer 6 -->
+    <!-- Final del footer 7 -->
     
 </body>
 </html>
